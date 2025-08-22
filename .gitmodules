@@ -1,0 +1,6 @@
+[submodule "sidecar"]
+	path = sidecar
+	url = https://github.com/caotong598-art/sidecar.git
+[submodule "ComfyScript"]
+	path = ComfyScript
+	url = https://github.com/Chaoses-Ib/ComfyScript.git
