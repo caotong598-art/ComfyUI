@@ -1,6 +1,8 @@
 [submodule "sidecar"]
 	path = sidecar
 	url = https://github.com/caotong598-art/sidecar.git
+	branch = master
 [submodule "ComfyScript"]
 	path = ComfyScript
 	url = https://github.com/Chaoses-Ib/ComfyScript.git
+	branch = main
